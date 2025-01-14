@@ -1,0 +1,310 @@
+{
+  "status": "OK",
+  "message": "Solicitud exitosa",
+  "data": [
+    {
+      "code": "10",
+      "description": "Efectivo"
+    },
+    {
+      "code": "42",
+      "description": "Consignación"
+    },
+    {
+      "code": "20",
+      "description": "Cheque"
+    },
+    {
+      "code": "46",
+      "description": "Transferencia Débito Interbancario"
+    },
+    {
+      "code": "47",
+      "description": "Transferencia"
+    },
+    {
+      "code": "71",
+      "description": "Bonos"
+    },
+    {
+      "code": "72",
+      "description": "Vales"
+    },
+    {
+      "code": "ZZZ",
+      "description": "Otro"
+    },
+    {
+      "code": "1",
+      "description": "Medio de pago no definido"
+    },
+    {
+      "code": "49",
+      "description": "Tarjeta Débito"
+    },
+    {
+      "code": "3",
+      "description": "Débito ACH"
+    },
+    {
+      "code": "25",
+      "description": "Cheque certificado"
+    },
+    {
+      "code": "26",
+      "description": "Cheque Local"
+    },
+    {
+      "code": "24",
+      "description": "Nota cambiaria esperando aceptación"
+    },
+    {
+      "code": "64",
+      "description": "Nota promisoria firmada por el banco"
+    },
+    {
+      "code": "65",
+      "description": "Nota promisoria firmada por un banco avalada por otro banco"
+    },
+    {
+      "code": "66",
+      "description": "Nota promisoria firmada"
+    },
+    {
+      "code": "67",
+      "description": "Nota promisoria firmada por un tercero avalada por un banco"
+    },
+    {
+      "code": "2",
+      "description": "Crédito ACH"
+    },
+    {
+      "code": "95",
+      "description": "Giro formato abierto"
+    },
+    {
+      "code": "13",
+      "description": "Crédito Ahorro"
+    },
+    {
+      "code": "14",
+      "description": "Débito Ahorro"
+    },
+    {
+      "code": "39",
+      "description": "Crédito Intercambio Corporativo (CTX)"
+    },
+    {
+      "code": "4",
+      "description": "Reversión débito de demanda ACH"
+    },
+    {
+      "code": "5",
+      "description": "Reversión crédito de demanda ACH"
+    },
+    {
+      "code": "6",
+      "description": "Crédito de demanda ACH"
+    },
+    {
+      "code": "7",
+      "description": "Débito de demanda ACH"
+    },
+    {
+      "code": "9",
+      "description": "Clearing Nacional o Regional"
+    },
+    {
+      "code": "11",
+      "description": "Reversión Crédito Ahorro"
+    },
+    {
+      "code": "12",
+      "description": "Reversión Débito Ahorro"
+    },
+    {
+      "code": "18",
+      "description": "Desembolso (CCD) débito"
+    },
+    {
+      "code": "19",
+      "description": "Crédito Pago negocio corporativo (CTP)"
+    },
+    {
+      "code": "21",
+      "description": "Proyecto bancario"
+    },
+    {
+      "code": "22",
+      "description": "Proyecto bancario certificado"
+    },
+    {
+      "code": "27",
+      "description": "Débito Pago Negocio Corporativo (CTP)"
+    },
+    {
+      "code": "28",
+      "description": "Crédito Negocio Intercambio Corporativo (CTX)"
+    },
+    {
+      "code": "29",
+      "description": "Débito Negocio Intercambio Corporativo (CTX)"
+    },
+    {
+      "code": "30",
+      "description": "Transferencia Crédito"
+    },
+    {
+      "code": "31",
+      "description": "Transferencia Débito"
+    },
+    {
+      "code": "32",
+      "description": "Desembolso Crédito plus (CCD+)"
+    },
+    {
+      "code": "33",
+      "description": "Desembolso Débito plus (CCD+)"
+    },
+    {
+      "code": "34",
+      "description": "Pago y depósito pre acordado (PPD)"
+    },
+    {
+      "code": "35",
+      "description": "Desembolso Crédito (CCD)"
+    },
+    {
+      "code": "36",
+      "description": "Desembolso Débito (CCD)"
+    },
+    {
+      "code": "48",
+      "description": "Tarjeta Crédito"
+    },
+    {
+      "code": "44",
+      "description": "Nota cambiaria"
+    },
+    {
+      "code": "23",
+      "description": "Cheque bancario de gerencia"
+    },
+    {
+      "code": "61",
+      "description": "Nota promisoria firmada por el acreedor"
+    },
+    {
+      "code": "62",
+      "description": "Nota promisoria firmada por el acreedor, avalada por el banco"
+    },
+    {
+      "code": "63",
+      "description": "Nota promisoria firmada por el acreedor, avalada por un tercero"
+    },
+    {
+      "code": "60",
+      "description": "Nota promisoria"
+    },
+    {
+      "code": "96",
+      "description": "Método de pago solicitado no usado"
+    },
+    {
+      "code": "91",
+      "description": "Nota bancaria transferible"
+    },
+    {
+      "code": "92",
+      "description": "Cheque local transferible"
+    },
+    {
+      "code": "93",
+      "description": "Giro referenciado"
+    },
+    {
+      "code": "94",
+      "description": "Giro urgente"
+    },
+    {
+      "code": "40",
+      "description": "Débito Intercambio Corporativo (CTX)"
+    },
+    {
+      "code": "41",
+      "description": "Desembolso Crédito plus (CCD+)"
+    },
+    {
+      "code": "43",
+      "description": "Desembolso Débito plus (CCD+)"
+    },
+    {
+      "code": "45",
+      "description": "Transferencia Crédito Bancario"
+    },
+    {
+      "code": "50",
+      "description": "Postgiro"
+    },
+    {
+      "code": "51",
+      "description": "Telex estándar bancario"
+    },
+    {
+      "code": "52",
+      "description": "Pago comercial urgente"
+    },
+    {
+      "code": "53",
+      "description": "Pago Tesorería Urgente"
+    },
+    {
+      "code": "15",
+      "description": "Bookentry Crédito"
+    },
+    {
+      "code": "16",
+      "description": "Bookentry Débito"
+    },
+    {
+      "code": "17",
+      "description": "Desembolso Crédito (CCD)"
+    },
+    {
+      "code": "70",
+      "description": "Retiro de nota por el acreedor"
+    },
+    {
+      "code": "74",
+      "description": "Retiro de nota por el acreedor sobre un banco"
+    },
+    {
+      "code": "75",
+      "description": "Retiro de nota por el acreedor, avalada por otro banco"
+    },
+    {
+      "code": "76",
+      "description": "Retiro de nota por el acreedor, sobre un banco avalada por un tercero"
+    },
+    {
+      "code": "77",
+      "description": "Retiro de una nota por el acreedor sobre un tercero"
+    },
+    {
+      "code": "78",
+      "description": "Retiro de una nota por el acreedor sobre un tercero avalada por un banco"
+    },
+    {
+      "code": "37",
+      "description": "Pago Negocio Corporativo Ahorros Crédito (CTP)"
+    },
+    {
+      "code": "38",
+      "description": "Pago Negocio Corporativo Ahorros Débito (CTP)"
+    },
+    {
+      "code": "97",
+      "description": "Clearing entre partners"
+    }
+  ]
+}
