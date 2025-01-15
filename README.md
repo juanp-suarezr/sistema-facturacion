@@ -30,8 +30,11 @@ npm install
 añade tambien la creacion del .env y crear las variables de api client y api secret
 
 Dentro del archivo .env, define las siguientes variables de entorno:
+
+```bash
 VUE_APP_API_CLIENT=<tu_api_client>
 VUE_APP_API_SECRET=<tu_api_secret>
+```
 
 Reemplaza <tu_api_client> y <tu_api_secret> con los valores correspondientes proporcionados por tu servicio de API.
 
