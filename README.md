@@ -32,8 +32,8 @@ añade tambien la creacion del .env y crear las variables de api client y api se
 Dentro del archivo .env, define las siguientes variables de entorno:
 
 ```bash
-VUE_APP_API_CLIENT=<tu_api_client>
-VUE_APP_API_SECRET=<tu_api_secret>
+VUE_APP_CLIENT_ID=<tu_api_client>
+VUE_APP_CLIENT_SECRET=<tu_api_secret>
 ```
 
 Reemplaza <tu_api_client> y <tu_api_secret> con los valores correspondientes proporcionados por tu servicio de API.
